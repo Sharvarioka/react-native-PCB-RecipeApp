@@ -11,10 +11,12 @@ The prototypes consists of following:
 - The app compares input and annotations and provide possible outcomes in the form of buttons. One yoy click the most appropriate option, we can seek to the specific timestamp in the video.
 
 Following are the screenshots of Recipe App which uses English annotations:
+<br>
 <img src="RecipeApp/recipeAppHomeScreen.jpeg" alt="drawing" width="512"/>
 <img src="RecipeApp/recipeAppRecorder.jpeg" alt="drawing" width="512"/>
 <img src="RecipeApp/recipeAppOptionButtons.jpeg" alt="drawing" width="512"/>
 
 Following are the screenshots of PCB App which uses Hindi annotations:
+<br>
 <img src="PCBApp/PCB_Recorder.png" alt="drawing" width="512"/>
-<img src="PCBApp/PCB_options.png" alt="drawing" width="512"/>
+<img src="PCBApp/PCB_optionButtons.png" alt="drawing" width="512"/>
