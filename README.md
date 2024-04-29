@@ -12,7 +12,7 @@ The prototypes consists of following:
 
 Following are the screenshots of Recipe App which uses English annotations:
 <br>
-<img src="RecipeApp/recipeAppHomeScreen.jpeg" alt="drawing" width="512"/>
+<img src="RecipeApp/recipeAppHomeScreen.jpeg" alt="drawing" width="64"/>
 <img src="RecipeApp/recipeAppRecorder.jpeg" alt="drawing" width="512"/>
 <img src="RecipeApp/recipeAppOptionButtons.jpeg" alt="drawing" width="512"/>
 
